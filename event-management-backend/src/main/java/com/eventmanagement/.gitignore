@@ -1,0 +1,9 @@
+# Compiled output
+/dist
+/.angular/cache
+
+# Dependencies
+/node_modules
+
+# Other
+.env
