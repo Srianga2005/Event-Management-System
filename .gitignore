@@ -1,0 +1,17 @@
+# Node modules and Angular cache
+node_modules/
+.angular/
+dist/
+.tmp/
+
+# Environment files
+src/environments/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
